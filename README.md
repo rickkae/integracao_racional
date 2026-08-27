@@ -39,7 +39,7 @@ Da mesma forma que a ilustração acima, outros exemplos são calculados e comen
 ![](ilustracao4.png)
 ![](ilustracao10.png)
 
-Em outros casos, as expressões simplesmente não conferem. Talvez por algum erro de adaptação algorítmica etc. O código necessita de uma refatoração para uma compreensão completa.
+Em outros casos, as expressões simplesmente não conferem. Talvez por algum erro de adaptação algorítmica etc. O código necessita de uma refatoração completa para a compreensão dos erros.
 
 ![](ilustracao9.png)
 
