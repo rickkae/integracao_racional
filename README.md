@@ -34,20 +34,4 @@ Para ilustrar o funcionamento:
 
 Note a conferência exata da função *integrate* do **Máxima** com o resultado de *Integral1* - variável que combina os resultados de *Hermite* com o *cziToLog* aplicado ao *czichowski* - procedimentos implementados pelo trabalho.
 
-Da mesma forma que a ilustração acima, outros exemplos são calculados e comentados no *Notebook*, que acompanha o projeto. A conferência nem sempre é exata simbolicamente. Em alguns casos, as expressões diferem em determinadas etapas de manipulação algébrica, como ilustra-se a seguir:
-
-![](ilustracao4.png)
-![](ilustracao10.png)
-
-Em outros casos, as expressões simplesmente não conferem. Talvez por algum erro de adaptação algorítmica etc. O código necessita de uma refatoração completa para a compreensão dos erros.
-
-![](ilustracao9.png)
-
-De qualquer forma, dado o vasto ramo de Integração Simbólica de funções Racionais, o projeto cobre um conteúdo mais do que suficiente para uma Introdução ao assunto, de modo que o presente trabalho pode ser usado para conduzir outros projetos de mesmo cunho. Talvez algum que aplique as variantes:
-
-- *Horowitz-Ostrogradsky* (alternativo ao algoritmo de *Hermite*)
-- *Lazard-Rioboo-Trager* (alternativo ao algoritmo de *Czichowski*)
-
-
-
 
