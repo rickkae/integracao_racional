@@ -43,7 +43,7 @@ Em outros casos, as expressões simplesmente não conferem. Talvez por algum err
 
 ![](ilustracao9.png)
 
-De qualquer forma, dado o vasto ramo de Integração Simbólica de funções Racionais, o projeto cobre um conteúdo mais do que suficiente para uma Introdução ao assunto, de modo que o presente trabalho pode ser usado para conduzir outros projetos de mesmo cunho. Talvez algum que as variantes:
+De qualquer forma, dado o vasto ramo de Integração Simbólica de funções Racionais, o projeto cobre um conteúdo mais do que suficiente para uma Introdução ao assunto, de modo que o presente trabalho pode ser usado para conduzir outros projetos de mesmo cunho. Talvez algum que aplique as variantes:
 
 - *Horowitz-Ostrogradsky* (alternativo ao algoritmo de *Hermite*)
 - *Lazard-Rioboo-Trager* (alternativo ao algoritmo de *Czichowski*)
