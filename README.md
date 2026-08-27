@@ -28,4 +28,9 @@ Sendo assim, o projeto em questão traz:
 - o código `integracao_racional.mac`, contendo a implementação de ambos os algoritmos.
 - um *Notebook* contendo a aplicação e comparação dos procedimentos implementados com a função nativa do **Máxima** para integração simbólica de funções.
 
-![](ilustracao.png)
+Para ilustrar o funcionamento:
+
+![](ilustracao2.png)
+
+Note que o resultado da função *integrate* do **Máxima** confere com o resultado de *Integral1*, que combina os resultados de *Hermite* com o *cziToLog* aplicado
+ao *czichowski*. 
