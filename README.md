@@ -30,7 +30,7 @@ Sendo assim, o projeto em questão traz:
 
 Para ilustrar o funcionamento:
 
-![](ilustracao.png)
+![](ilustracao1.png)
 
 Note que o resultado da função *integrate* do **Máxima** confere com o resultado de *Integral1*, que combina os resultados de *Hermite* com o *cziToLog* aplicado
 ao *czichowski*. 
