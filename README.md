@@ -24,8 +24,8 @@ precisa ser completamente fatorado para funcionar - algo que custa caro computac
 
 Sendo assim, o projeto em questão traz:
 
-- Slides para a apresentação teórica de ambos os algoritmos.
-- o código `integracao_racional.mac` contendo a implementação de ambos os algoritmos.
+- Slides para a apresentação teórica de ambos algoritmos.
+- o código `integracao_racional.mac` contendo a implementação de ambos algoritmos.
 - um *Notebook* contendo a aplicação e comparação dos procedimentos implementados com a função nativa do **Máxima** para integração simbólica de funções.
 
 Para ilustrar o funcionamento:
