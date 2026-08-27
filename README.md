@@ -39,11 +39,11 @@ Da mesma forma que a ilustração acima, outros exemplos são calculados e comen
 ![](ilustracao4.png)
 ![](ilustracao10.png)
 
-Em outros casos, as expressões simplesmente não conferem. Talvez por algum erro de implementação ou adaptação algorítmica 
+Em outros casos, as expressões simplesmente não conferem. Talvez por algum erro de adaptação algorítmica etc. O código necessita de uma refatoração para uma compreensão completa.
 
 ![](ilustracao9.png)
 
-De qualquer forma, dado o vasto ramo de Integração Simbólica de funções Racionais, o projeto cobre um conteúdo mais do que suficiente para uma Introdução ao assunto, de modo que o presente trabalho pode ser usado para conduzir outros projetos de mesmo cunho. Talvez algum que aplique os métodos:
+De qualquer forma, dado o vasto ramo de Integração Simbólica de funções Racionais, o projeto cobre um conteúdo mais do que suficiente para uma Introdução ao assunto, de modo que o presente trabalho pode ser usado para conduzir outros projetos de mesmo cunho. Talvez algum que as variantes:
 
 - *Horowitz-Ostrogradsky* (alternativo ao algoritmo de *Hermite*)
 - *Lazard-Rioboo-Trager* (alternativo ao algoritmo de *Czichowski*)
