@@ -33,7 +33,9 @@ Para ilustrar o funcionamento:
 ![](ilustracao1.png)
 
 Note que o resultado da função *integrate* do **Máxima** confere com o resultado de *Integral1*, que combina os resultados de *Hermite* com o *cziToLog* aplicado
-ao *czichowski*. Da mesma forma que a ilustração acima, outros exemplos são calculados e comentados no *Notebook*, que acompanha o projeto.
+ao *czichowski*. 
+
+Da mesma forma que a ilustração acima, outros exemplos são calculados e comentados no *Notebook*, que acompanha o projeto.
 
 ![](ilustracao4.png)
 
