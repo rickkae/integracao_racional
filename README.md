@@ -24,20 +24,30 @@ precisa ser completamente fatorado para funcionar - algo que custa caro computac
 
 Sendo assim, o projeto em questão traz:
 
-- Slides para a apresentação teórica de ambos algoritmos.
-- o código `integracao_racional.mac` contendo a implementação de ambos algoritmos.
-- um *Notebook* contendo a aplicação e comparação dos procedimentos implementados com a função nativa do **Máxima** para integração simbólica de funções.
+- Slides para a apresentação teórica de ambos algoritmos, que possuem uma eficiência melhor do que o método de frações parciais.
+- o código `integracao_racional.mac` contendo a implementação dos algoritmos citados.
+- um *Notebook* contendo a aplicação e comparação dos procedimentos implementados com a função nativa do **Máxima** para integrar simbolicamente funções.
 
 Para ilustrar o funcionamento:
 
 ![](ilustracao1.png)
 
-Note que o resultado da função *integrate* do **Máxima** confere com o resultado de *Integral1*, que combina os resultados de *Hermite* com o *cziToLog* aplicado
-ao *czichowski*. 
+Note a conferência exata da função *integrate* do **Máxima** com o resultado de *Integral1* - variável que combina os resultados de *Hermite* com o *cziToLog* aplicado ao *czichowski* - procedimentos implementados pelo trabalho.
 
-Da mesma forma que a ilustração acima, outros exemplos são calculados e comentados no *Notebook*, que acompanha o projeto.
+Da mesma forma que a ilustração acima, outros exemplos são calculados e comentados no *Notebook*, que acompanha o projeto. A conferência nem sempre é exata simbolicamente. Em alguns casos, as expressões diferem em determinadas etapas de manipulação algébrica, como ilustra-se a seguir:
 
 ![](ilustracao4.png)
+![](ilustracao10.png)
+
+Em outros casos, as expressões simplesmente não conferem. Talvez por algum erro de implementação ou adaptação algorítmica 
+
+![](ilustracao9.png)
+
+De qualquer forma, dado o vasto ramo de Integração Simbólica de funções Racionais, o projeto cobre um conteúdo mais do que suficiente para uma Introdução ao assunto, de modo que o presente trabalho pode ser usado para conduzir outros projetos de mesmo cunho. Talvez algum que aplique os métodos:
+
+- *Horowitz-Ostrogradsky* (alternativo ao algoritmo de *Hermite*)
+- *Lazard-Rioboo-Trager* (alternativo ao algoritmo de *Czichowski*)
+
 
 
 
